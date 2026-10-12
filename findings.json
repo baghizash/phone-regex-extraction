@@ -1,0 +1,22 @@
+{
+  "total_baris": 1000,
+  "nomor_valid": 770,
+  "baris_rusak": 230,
+  "distribusi_format": {
+    "internasional": 117,
+    "spasi": 135,
+    "kurung": 119,
+    "titik": 140,
+    "tanda hubung": 131,
+    "polos": 128
+  },
+  "kode_area_unik": 522,
+  "contoh_rusak": [
+    "68359",
+    "82382",
+    "96567",
+    "89106",
+    "77068"
+  ],
+  "akurasi_tugas": "100 dari 100 pada grader kursus"
+}
